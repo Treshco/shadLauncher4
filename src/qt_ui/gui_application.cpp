@@ -42,6 +42,9 @@ bool GUIApplication::init(QString emulator_arg, QString game_arg, QStringList pa
     Common::Log::Setup("shadLauncher4.log");
 
     m_gui_settings = std::make_shared<GUISettings>();
+
+    const bool is_first_run = !QFile::exists(m_gui_settings->GetSettingsFilePath());
+
     m_emu_settings = std::make_shared<EmulatorSettingsImpl>();
     m_emu_settings->Load();
     m_ipc_client = std::make_shared<IpcClient>();
@@ -65,8 +68,7 @@ bool GUIApplication::init(QString emulator_arg, QString game_arg, QStringList pa
     // Create connects to propagate events throughout Gui.
     InitializeConnects();
 
-    if (!SetupWizard::IsSetupCompleted(m_gui_settings) ||
-        m_emu_settings->GetGameInstallDirs().empty()) {
+    if (is_first_run) {
         SetupWizard wizard(m_gui_settings, m_emu_settings);
         connect(&wizard, &SetupWizard::requestLanguageChange, this, &GUIApplication::loadLanguage);
         connect(&wizard, &SetupWizard::requestThemeChange, this,

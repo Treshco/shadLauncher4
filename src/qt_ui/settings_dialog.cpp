@@ -770,6 +770,7 @@ void SettingsDialog::LoadValuesFromConfig() {
     ui->logSkipDuplicateCheckBox->setChecked(m_emu_settings->IsLogSkipDuplicate());
     ui->logMaxSkipDurationGroupBox->setVisible(ui->logSkipDuplicateCheckBox->isChecked());
     ui->logMaxSkipDurationLineEdit->setValue(m_emu_settings->GetLogMaxSkipDuration());
+
     {
         const QString flush_level =
             QString::fromStdString(m_emu_settings->GetLogFlushLevel()).trimmed();

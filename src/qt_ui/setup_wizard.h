@@ -34,9 +34,6 @@ public:
                          QWidget* parent = nullptr);
     ~SetupWizard() override;
 
-    // True once the user has finished the wizard at least once.
-    static bool IsSetupCompleted(const std::shared_ptr<GUISettings>& gui_settings);
-
     // Pages call these instead of emitting the wizard's signals directly.
     void RequestLanguageChange(const QString& language_code);
     void RequestThemeChange();

@@ -74,13 +74,6 @@ SetupWizard::SetupWizard(std::shared_ptr<GUISettings> gui_settings,
 
 SetupWizard::~SetupWizard() = default;
 
-bool SetupWizard::IsSetupCompleted(const std::shared_ptr<GUISettings>& gui_settings) {
-    if (!gui_settings) {
-        return false;
-    }
-    return gui_settings->GetValue(GUI::general_setup_completed).toBool();
-}
-
 void SetupWizard::RequestLanguageChange(const QString& language_code) {
     Q_EMIT requestLanguageChange(language_code);
 }
@@ -90,9 +83,6 @@ void SetupWizard::RequestThemeChange() {
 }
 
 void SetupWizard::accept() {
-    // Only a completed run counts - quitting early leaves the flag alone so the
-    // wizard comes back on the next start.
-    m_gui_settings->SetValue(GUI::general_setup_completed, true);
     if (m_emu_settings) {
         m_emu_settings->Save();
     }
