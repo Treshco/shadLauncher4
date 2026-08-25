@@ -862,76 +862,76 @@ Debes introducir tus claves y guardarlas.</translation>
     <name>DlcViewerDialog</name>
     <message>
       <source>DLC Viewer</source>
-      <translation type="unfinished">DLC Viewer</translation>
+      <translation>Visualizador de DLC</translation>
     </message>
     <message>
       <source>Reload</source>
-      <translation type="unfinished">Reload</translation>
+      <translation>Actualizar</translation>
     </message>
     <message>
       <source>Open Addon Folder</source>
-      <translation type="unfinished">Open Addon Folder</translation>
+      <translation>Abrir carpeta de complementos</translation>
     </message>
     <message>
       <source>Open DLC Folder</source>
-      <translation type="unfinished">Open DLC Folder</translation>
+      <translation>Abrir carpeta de DLC</translation>
     </message>
     <message>
       <source>Delete DLC</source>
-      <translation type="unfinished">Delete DLC</translation>
+      <translation>Eliminar DLC</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nombre</translation>
     </message>
     <message>
       <source>Content ID</source>
-      <translation type="unfinished">Content ID</translation>
+      <translation>ID de contenido</translation>
     </message>
     <message>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Tamaño</translation>
     </message>
     <message>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Origen</translation>
     </message>
     <message>
       <source>This game</source>
-      <translation type="unfinished">This game</translation>
+      <translation>Este juego</translation>
     </message>
     <message>
       <source>Shared (label %1, %2)</source>
-      <translation type="unfinished">Shared (label %1, %2)</translation>
+      <translation>Compartido (etiqueta %1, %2)</translation>
     </message>
     <message>
       <source>%1 DLC(s) installed, %2 total</source>
-      <translation type="unfinished">%1 DLC(s) installed, %2 total</translation>
+      <translation>DLC instalados: %1, total: %2</translation>
     </message>
     <message>
       <source>No addon (DLC) install directory is configured. Set one in Settings.</source>
-      <translation type="unfinished">No addon (DLC) install directory is configured. Set one in Settings.</translation>
+      <translation>No se ha configurado un directorio de instalación de complementos (DLC). Selecciona uno en la configuración.</translation>
     </message>
     <message>
       <source>No installed DLC found for %1.</source>
-      <translation type="unfinished">No installed DLC found for %1.</translation>
+      <translation>No se han encontrado DLC instalados para %1.</translation>
     </message>
     <message>
       <source>Could not open or create the addon folder:
 %1</source>
-      <translation type="unfinished">Could not open or create the addon folder:
+      <translation>No se ha podido abrir o crear la carpeta de complementos:
 %1</translation>
     </message>
     <message>
       <source>Select a DLC first.</source>
-      <translation type="unfinished">Select a DLC first.</translation>
+      <translation>Primero debes seleccionar un DLC.</translation>
     </message>
     <message>
       <source>Are you sure you want to delete this DLC?
 
 %1
 %2</source>
-      <translation type="unfinished">Are you sure you want to delete this DLC?
+      <translation>¿Seguro que quieres eliminar los siguientes DLC?
 
 %1
 %2</translation>
@@ -939,7 +939,7 @@ Debes introducir tus claves y guardarlas.</translation>
     <message>
       <source>Failed to delete DLC folder:
 %1</source>
-      <translation type="unfinished">Failed to delete DLC folder:
+      <translation>Error al eliminar la carpeta de DLC:
 %1</translation>
     </message>
   </context>
@@ -1679,7 +1679,7 @@ Para utilizar el nombre original, deja este cuadro en blanco.</translation>
     </message>
     <message>
       <source>&amp;DLC Viewer</source>
-      <translation type="unfinished">&amp;DLC Viewer</translation>
+      <translation>Visualizador de &amp;DLC</translation>
     </message>
   </context>
   <context>
@@ -2262,7 +2262,7 @@ Replace the current list entirely, or append these entries to it (entries whose 
     <name>IpcClient</name>
     <message>
       <source>No game is running</source>
-      <translation type="unfinished">No game is running</translation>
+      <translation>No se está ejecutando un juego</translation>
     </message>
   </context>
   <context>
@@ -3054,39 +3054,39 @@ Selecciona una versión del emulador en el panel derecho.</translation>
     </message>
     <message>
       <source>PSF CONTENT_ID has an unexpected format: %1</source>
-      <translation type="unfinished">PSF CONTENT_ID has an unexpected format: %1</translation>
+      <translation>El CONTENT_ID del PSF tiene un formato inesperado: %1</translation>
     </message>
     <message>
       <source>PKG is a patch, please install the game first!</source>
-      <translation type="unfinished">PKG is a patch, please install the game first!</translation>
+      <translation>El archivo PKG es un parche, ¡debes instalar primero el juego!</translation>
     </message>
     <message>
       <source>Setup Wizard</source>
-      <translation type="unfinished">Setup Wizard</translation>
+      <translation>Asistente de configuración</translation>
     </message>
     <message>
       <source>Manage Skylanders</source>
-      <translation type="unfinished">Manage Skylanders</translation>
+      <translation>Gestionar Skylanders</translation>
     </message>
     <message>
       <source>Load and manage figures on the emulated Skylanders Portal of Power</source>
-      <translation type="unfinished">Load and manage figures on the emulated Skylanders Portal of Power</translation>
+      <translation>Carga y administra las figuras de tu portal de poder emulado de Skylanders</translation>
     </message>
     <message>
       <source>Manage Infinity Figures</source>
-      <translation type="unfinished">Manage Infinity Figures</translation>
+      <translation>Gestionar figuras de Infinity</translation>
     </message>
     <message>
       <source>Load and manage figures on the emulated Disney Infinity Base</source>
-      <translation type="unfinished">Load and manage figures on the emulated Disney Infinity Base</translation>
+      <translation>Carga y administra las figuras de tu base emulada de Disney Infinity</translation>
     </message>
     <message>
       <source>Manage Dimensions Toypad</source>
-      <translation type="unfinished">Manage Dimensions Toypad</translation>
+      <translation>Gestionar Toy Pad de Dimensions</translation>
     </message>
     <message>
       <source>Load and manage minifigures on the emulated Lego Dimensions Toypad</source>
-      <translation type="unfinished">Load and manage minifigures on the emulated Lego Dimensions Toypad</translation>
+      <translation>Carga y administra las figuras de tu Toypad emulado de Lego Dimensions</translation>
     </message>
   </context>
   <context>
@@ -4276,19 +4276,19 @@ Se eliminarán todos los ajustes específicos para cada juego.</translation>
     </message>
     <message>
       <source>Console Language</source>
-      <translation type="unfinished">Console Language</translation>
+      <translation>Idioma de la consola</translation>
     </message>
     <message>
       <source>Big Picture Scale</source>
-      <translation type="unfinished">Big Picture Scale</translation>
+      <translation>Escala del modo Big Picture</translation>
     </message>
     <message>
       <source>Log Flush Level</source>
-      <translation type="unfinished">Log Flush Level</translation>
+      <translation>Nivel de vaciado del registro</translation>
     </message>
     <message>
       <source>Additional FMem Allocation</source>
-      <translation type="unfinished">Additional FMem Allocation</translation>
+      <translation>Asignación adicional de FMem</translation>
     </message>
   </context>
   <context>
@@ -4703,261 +4703,261 @@ Se eliminarán todos los ajustes específicos para cada juego.</translation>
     </message>
     <message>
       <source>Console Language:\nSets the language that PS4 games run in - localized titles, icons and changelogs follow it.\nThis is separate from the launcher&apos;s own interface language.\nIt is best set to a language the game actually supports, which varies by region.</source>
-      <translation type="unfinished">Console Language:\nSets the language that PS4 games run in - localized titles, icons and changelogs follow it.\nThis is separate from the launcher&apos;s own interface language.\nIt is best set to a language the game actually supports, which varies by region.</translation>
+      <translation>Idioma de la consola:\nEstablece el idioma en el que se ejecutarán los juegos de PS4: afectará a los títulos, iconos e historiales de cambios localizados.\nEste ajuste es independiente al idioma de la interfaz del iniciador.\nLo ideal es seleccionar un idioma con el que sea compatible el juego, que cambiará según su región.</translation>
     </message>
     <message>
       <source>Log Flush Level:\nSets the log level for which logs at or above will be flushed.</source>
-      <translation type="unfinished">Log Flush Level:\nSets the log level for which logs at or above will be flushed.</translation>
+      <translation>Nivel de vaciado del registro:\nEstablece el nivel de registro a partir del cual todo mensaje de registro será borrado.</translation>
     </message>
     <message>
       <source>Big Picture Scale:\nScales the Big Picture interface, in percent of its normal size.</source>
-      <translation type="unfinished">Big Picture Scale:\nScales the Big Picture interface, in percent of its normal size.</translation>
+      <translation>Escala del modo Big Picture:\nModifica la escala de la interfaz Big Picture aplicando un porcentaje relativo a su tamaño normal.</translation>
     </message>
     <message>
       <source>Additional FMem Allocation:\nForces allocation of the specified amount of additional FMem. Crashes or causes issues in some games.</source>
-      <translation type="unfinished">Additional FMem Allocation:\nForces allocation of the specified amount of additional FMem. Crashes or causes issues in some games.</translation>
+      <translation>Asignación adicional de FMem:\nFuerza la asignación de la cantidad especificada de FMem adicional. Provoca cuelgues o problemas en algunos juegos.</translation>
     </message>
   </context>
   <context>
     <name>SetupWizard</name>
     <message>
       <source>shadLauncher4 Setup</source>
-      <translation type="unfinished">shadLauncher4 Setup</translation>
+      <translation>Configuración de shadLauncher4</translation>
     </message>
   </context>
   <context>
     <name>SetupWizardConclusionPage</name>
     <message>
       <source>All set</source>
-      <translation type="unfinished">All set</translation>
+      <translation>¡Has acabado!</translation>
     </message>
     <message>
       <source>Review your choices and finish.</source>
-      <translation type="unfinished">Review your choices and finish.</translation>
+      <translation>Revisa tus elecciones y termina con el asistente.</translation>
     </message>
     <message>
       <source>shadLauncher4 is ready to use. Everything below can be changed later in Settings.</source>
-      <translation type="unfinished">shadLauncher4 is ready to use. Everything below can be changed later in Settings.</translation>
+      <translation>shadLauncher4 ya está listo. Puedes cambiar todo lo que se muestra debajo más adelante, dentro del menú de Configuración.</translation>
     </message>
     <message>
       <source>(none)</source>
-      <translation type="unfinished">(none)</translation>
+      <translation>(nada)</translation>
     </message>
     <message>
       <source>(none selected)</source>
-      <translation type="unfinished">(none selected)</translation>
+      <translation>(no se ha seleccionado nada)</translation>
     </message>
     <message>
       <source>Games:</source>
-      <translation type="unfinished">Games:</translation>
+      <translation>Juegos:</translation>
     </message>
     <message>
       <source>DLC:</source>
-      <translation type="unfinished">DLC:</translation>
+      <translation>DLC:</translation>
     </message>
     <message>
       <source>Emulator versions:</source>
-      <translation type="unfinished">Emulator versions:</translation>
+      <translation>Versiones del emulador:</translation>
     </message>
     <message>
       <source>Selected version:</source>
-      <translation type="unfinished">Selected version:</translation>
+      <translation>Versión seleccionada:</translation>
     </message>
   </context>
   <context>
     <name>SetupWizardFoldersPage</name>
     <message>
       <source>Directory with your dumped games</source>
-      <translation type="unfinished">Directory with your dumped games</translation>
+      <translation>Directorio con tus juegos volcados</translation>
     </message>
     <message>
       <source>Directory with your dumped DLCs</source>
-      <translation type="unfinished">Directory with your dumped DLCs</translation>
+      <translation>Directorio con tus DLC volcados</translation>
     </message>
     <message>
       <source>Directory to install emulator versions</source>
-      <translation type="unfinished">Directory to install emulator versions</translation>
+      <translation>Directorio para instalar versiones del emulador</translation>
     </message>
     <message>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Error</translation>
     </message>
     <message>
       <source>The chosen location for dumped games is not valid.</source>
-      <translation type="unfinished">The chosen location for dumped games is not valid.</translation>
+      <translation>La ubicación de juegos volcados que has elegido no es válida.</translation>
     </message>
     <message>
       <source>The chosen location for dumped DLCs is not valid.</source>
-      <translation type="unfinished">The chosen location for dumped DLCs is not valid.</translation>
+      <translation>La ubicación de DLC volcados que has elegido no es válida.</translation>
     </message>
     <message>
       <source>The DLC dump location could not be created.</source>
-      <translation type="unfinished">The DLC dump location could not be created.</translation>
+      <translation>No se ha podido crear la ubicación de DLC volcados.</translation>
     </message>
     <message>
       <source>The location for installing emulator versions is not valid.</source>
-      <translation type="unfinished">The location for installing emulator versions is not valid.</translation>
+      <translation>La ubicación para instalar versiones del emulador no es válida.</translation>
     </message>
     <message>
       <source>The emulator version location could not be created.</source>
-      <translation type="unfinished">The emulator version location could not be created.</translation>
+      <translation>No se ha podido crear la ubicación para instalar versiones del emulador.</translation>
     </message>
     <message>
       <source>Folders</source>
-      <translation type="unfinished">Folders</translation>
+      <translation>Carpetas</translation>
     </message>
     <message>
       <source>Tell shadLauncher4 where to find your games and where to put everything else.</source>
-      <translation type="unfinished">Tell shadLauncher4 where to find your games and where to put everything else.</translation>
+      <translation>Indica a shadLauncher4 dónde puede encontrar tus juegos y dónde debe poner todo lo demás.</translation>
     </message>
     <message>
       <source>Games:</source>
-      <translation type="unfinished">Games:</translation>
+      <translation>Juegos:</translation>
     </message>
     <message>
       <source>DLC:</source>
-      <translation type="unfinished">DLC:</translation>
+      <translation>DLC:</translation>
     </message>
     <message>
       <source>Emulator versions:</source>
-      <translation type="unfinished">Emulator versions:</translation>
+      <translation>Versiones del emulador:</translation>
     </message>
     <message>
       <source>Browse...</source>
-      <translation type="unfinished">Browse...</translation>
+      <translation>Buscar...</translation>
     </message>
     <message>
       <source>The games folder must already exist. The DLC and emulator version folders are created if they are missing. More library folders can be added later under Settings - Paths.</source>
-      <translation type="unfinished">The games folder must already exist. The DLC and emulator version folders are created if they are missing. More library folders can be added later under Settings - Paths.</translation>
+      <translation>La carpeta de juegos debe existir de antemano. Las carpetas de DLC y versiones del emulador se crearán en caso de que no existan. Puedes añadir más carpetas de tu biblioteca en un futuro si vas a Configuración - Rutas.</translation>
     </message>
   </context>
   <context>
     <name>SetupWizardIntroPage</name>
     <message>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Predeterminada</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Nada</translation>
     </message>
     <message>
       <source> (missing)</source>
-      <translation type="unfinished"> (missing)</translation>
+      <translation> (no presente)</translation>
     </message>
     <message>
       <source>Welcome to shadLauncher4</source>
-      <translation type="unfinished">Welcome to shadLauncher4</translation>
+      <translation>Te damos la bienvenida a shadLauncher4</translation>
     </message>
     <message>
       <source>This short setup gets your library and emulator ready.</source>
-      <translation type="unfinished">This short setup gets your library and emulator ready.</translation>
+      <translation>Este breve asistente te ayudará a preparar tu biblioteca y el emulador.</translation>
     </message>
     <message>
       <source>shadLauncher4 manages your PS4 game library and launches it with shadPS4.
 
 The next steps ask where your games live and which emulator version to use. You can change any of this later in Settings.</source>
-      <translation type="unfinished">shadLauncher4 manages your PS4 game library and launches it with shadPS4.
+      <translation>shadLauncher4 gestiona tu biblioteca de juegos de PS4 y la ejecuta con shadPS4.
 
-The next steps ask where your games live and which emulator version to use. You can change any of this later in Settings.</translation>
+Los siguientes pasos te preguntarán dónde guardas tus juegos y qué versión del emulador quieres utilizar. Podrás cambiar estos ajustes más adelante dentro de la configuración.</translation>
     </message>
     <message>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Idioma:</translation>
     </message>
     <message>
       <source>Theme:</source>
-      <translation type="unfinished">Theme:</translation>
+      <translation>Tema:</translation>
     </message>
   </context>
   <context>
     <name>SetupWizardVersionPage</name>
     <message>
       <source>Release</source>
-      <translation type="unfinished">Release</translation>
+      <translation>Principal</translation>
     </message>
     <message>
       <source>Pre-release</source>
-      <translation type="unfinished">Pre-release</translation>
+      <translation>Prelanzamiento</translation>
     </message>
     <message>
       <source>Local</source>
-      <translation type="unfinished">Local</translation>
+      <translation>Local</translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Desconocida</translation>
     </message>
     <message>
       <source>Emulator version</source>
-      <translation type="unfinished">Emulator version</translation>
+      <translation>Versión del emulador</translation>
     </message>
     <message>
       <source>shadLauncher4 runs your games with shadPS4. Pick the version to use.</source>
-      <translation type="unfinished">shadLauncher4 runs your games with shadPS4. Pick the version to use.</translation>
+      <translation>shadLauncher4 ejecutará tus juegos utilizando shadPS4. Selecciona qué versión de shadPS4 quieres utilizar.</translation>
     </message>
     <message>
       <source>Select an installed version below, or open the Version Manager to download one.</source>
-      <translation type="unfinished">Select an installed version below, or open the Version Manager to download one.</translation>
+      <translation>Selecciona una de las versiones ya instaladas de la lista o abre el gestor de versiones para descargar una.</translation>
     </message>
     <message>
       <source>No emulator versions are installed yet. Open the Version Manager to download one - you can also do this later from the main window.</source>
-      <translation type="unfinished">No emulator versions are installed yet. Open the Version Manager to download one - you can also do this later from the main window.</translation>
+      <translation>Aún no tienes versiones del emulador instaladas. Abre el gestor de versiones para descargar una; pero también puedes hacer este paso más tarde en la ventana principal.</translation>
     </message>
     <message>
       <source>Open Version Manager...</source>
-      <translation type="unfinished">Open Version Manager...</translation>
+      <translation>Abrir gestor de versiones...</translation>
     </message>
   </context>
   <context>
     <name>ShadNet::LoginChecker</name>
     <message>
       <source>Login successful.</source>
-      <translation type="unfinished">Login successful.</translation>
+      <translation>Sesión iniciada.</translation>
     </message>
     <message>
       <source>Credentials are valid, but this account is already signed in somewhere else.</source>
-      <translation type="unfinished">Credentials are valid, but this account is already signed in somewhere else.</translation>
+      <translation>Las credenciales son válidas, pero ya se ha iniciado sesión con esta cuenta en otra parte.</translation>
     </message>
     <message>
       <source>Invalid account ID or password.</source>
-      <translation type="unfinished">Invalid account ID or password.</translation>
+      <translation>ID de cuenta o contraseña no válidos.</translation>
     </message>
     <message>
       <source>This server requires an e-mail validation token for this account.</source>
-      <translation type="unfinished">This server requires an e-mail validation token for this account.</translation>
+      <translation>Este servidor requiere que esta cuenta sea validada mediante un token por email.</translation>
     </message>
     <message>
       <source>This account is banned on this server.</source>
-      <translation type="unfinished">This account is banned on this server.</translation>
+      <translation>Esta cuenta tiene prohibido entrar a este servidor.</translation>
     </message>
     <message>
       <source>The ShadNet server address is not valid. Check it in Settings.</source>
-      <translation type="unfinished">The ShadNet server address is not valid. Check it in Settings.</translation>
+      <translation>La dirección del servidor ShadNet no es válida. Revísala en la configuración.</translation>
     </message>
     <message>
       <source>Could not reach the ShadNet server: %1</source>
-      <translation type="unfinished">Could not reach the ShadNet server: %1</translation>
+      <translation>No se ha podido contactar con el servidor ShadNet: %1</translation>
     </message>
     <message>
       <source>Could not reach the ShadNet server.</source>
-      <translation type="unfinished">Could not reach the ShadNet server.</translation>
+      <translation>No se ha podido contactar con el servidor ShadNet.</translation>
     </message>
     <message>
       <source>The server speaks a different protocol version than this launcher.</source>
-      <translation type="unfinished">The server speaks a different protocol version than this launcher.</translation>
+      <translation>El servidor utiliza una versión del protocolo distinta a la de este iniciador.</translation>
     </message>
     <message>
       <source>The server sent an unexpected response.</source>
-      <translation type="unfinished">The server sent an unexpected response.</translation>
+      <translation>El servidor ha enviado una respuesta inesperada.</translation>
     </message>
     <message>
       <source>The ShadNet server did not respond in time.</source>
-      <translation type="unfinished">The ShadNet server did not respond in time.</translation>
+      <translation>El servidor ShadNet no ha respondido a tiempo.</translation>
     </message>
     <message>
       <source>The server rejected the login (error code %1).</source>
-      <translation type="unfinished">The server rejected the login (error code %1).</translation>
+      <translation>El servidor ha rechazado el inicio de sesión (código de error %1).</translation>
     </message>
   </context>
   <context>
@@ -5139,19 +5139,19 @@ The next steps ask where your games live and which emulator version to use. You 
     </message>
     <message>
       <source>Check Login</source>
-      <translation type="unfinished">Check Login</translation>
+      <translation>Comprobar inicio de sesión</translation>
     </message>
     <message>
       <source>Enter an account ID first.</source>
-      <translation type="unfinished">Enter an account ID first.</translation>
+      <translation>Debes introducir un ID de cuenta primero.</translation>
     </message>
     <message>
       <source>No ShadNet server is configured. Set one in Settings.</source>
-      <translation type="unfinished">No ShadNet server is configured. Set one in Settings.</translation>
+      <translation>No se ha configurado un servidor ShadNet. Puedes hacerlo dentro de la configuración.</translation>
     </message>
     <message>
       <source>Checking %1...</source>
-      <translation type="unfinished">Checking %1...</translation>
+      <translation>Comprobando %1...</translation>
     </message>
   </context>
   <context>
@@ -5642,127 +5642,127 @@ Esta versión podría no ejecutarse correctamente.</translation>
     <name>dimensions_dialog</name>
     <message>
       <source>Dimensions Manager</source>
-      <translation type="unfinished">Dimensions Manager</translation>
+      <translation>Gestor de Dimensions</translation>
     </message>
     <message>
       <source>Active Dimensions Figures:</source>
-      <translation type="unfinished">Active Dimensions Figures:</translation>
+      <translation>Figuras de Dimensions activas:</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Nada</translation>
     </message>
     <message>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Borrar</translation>
     </message>
     <message>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>Crear</translation>
     </message>
     <message>
       <source>Load</source>
-      <translation type="unfinished">Load</translation>
+      <translation>Cargar</translation>
     </message>
     <message>
       <source>Move</source>
-      <translation type="unfinished">Move</translation>
+      <translation>Mover</translation>
     </message>
     <message>
       <source>Unknown Figure</source>
-      <translation type="unfinished">Unknown Figure</translation>
+      <translation>Figura desconocida</translation>
     </message>
     <message>
       <source>Select Dimensions File</source>
-      <translation type="unfinished">Select Dimensions File</translation>
+      <translation>Seleccionar archivo de Dimensions</translation>
     </message>
     <message>
       <source>Dimensions Figure (*.bin);;</source>
-      <translation type="unfinished">Dimensions Figure (*.bin);;</translation>
+      <translation>Figura de Dimensions (*.bin);;</translation>
     </message>
     <message>
       <source>Failed to open the figure file!</source>
-      <translation type="unfinished">Failed to open the figure file!</translation>
+      <translation>¡Error al abrir el archivo de figura!</translation>
     </message>
     <message>
       <source>Failed to open the figure file(%1)!
 File may already be in use on the base.</source>
-      <translation type="unfinished">Failed to open the figure file(%1)!
-File may already be in use on the base.</translation>
+      <translation>¡Error al abrir el archivo de figura (%1)!
+El archivo ya podría estar usándose en la base.</translation>
     </message>
     <message>
       <source>Failed to read the figure file!</source>
-      <translation type="unfinished">Failed to read the figure file!</translation>
+      <translation>¡Error al leer el archivo de figura!</translation>
     </message>
     <message>
       <source>Failed to read the figure file(%1)!
 File was too small.</source>
-      <translation type="unfinished">Failed to read the figure file(%1)!
-File was too small.</translation>
+      <translation>¡Error al leer el archivo de figura (%1)!
+El archivo es demasiado pequeño.</translation>
     </message>
   </context>
   <context>
     <name>figure_creator_dialog</name>
     <message>
       <source>Figure Creator</source>
-      <translation type="unfinished">Figure Creator</translation>
+      <translation>Creador de figuras</translation>
     </message>
     <message>
       <source>Filter by Series:</source>
-      <translation type="unfinished">Filter by Series:</translation>
+      <translation>Filtrar por serie:</translation>
     </message>
     <message>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>Todas</translation>
     </message>
     <message>
       <source>--Unknown--</source>
-      <translation type="unfinished">--Unknown--</translation>
+      <translation>--Desconocida--</translation>
     </message>
     <message>
       <source>Figure Number:</source>
-      <translation type="unfinished">Figure Number:</translation>
+      <translation>Número de figura:</translation>
     </message>
     <message>
       <source>Series:</source>
-      <translation type="unfinished">Series:</translation>
+      <translation>Serie:</translation>
     </message>
     <message>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>Crear</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Cancelar</translation>
     </message>
     <message>
       <source>Error converting value</source>
-      <translation type="unfinished">Error converting value</translation>
+      <translation>Error al convertir valor</translation>
     </message>
     <message>
       <source>Figure number entered is invalid!</source>
-      <translation type="unfinished">Figure number entered is invalid!</translation>
+      <translation>¡El número de figura no es válido!</translation>
     </message>
     <message>
       <source>Series number entered is invalid!</source>
-      <translation type="unfinished">Series number entered is invalid!</translation>
+      <translation>¡El número de serie no es válido!</translation>
     </message>
     <message>
       <source>Create Figure File</source>
-      <translation type="unfinished">Create Figure File</translation>
+      <translation>Crear archivo de figura</translation>
     </message>
     <message>
       <source>Infinity Figure (*.bin);;</source>
-      <translation type="unfinished">Infinity Figure (*.bin);;</translation>
+      <translation>Figura de Infinity (*.bin);;</translation>
     </message>
     <message>
       <source>Failed to create figure file!</source>
-      <translation type="unfinished">Failed to create figure file!</translation>
+      <translation>¡Error al crear el archivo de figura!</translation>
     </message>
     <message>
       <source>Failed to create figure file:
 %1</source>
-      <translation type="unfinished">Failed to create figure file:
+      <translation>Error al crear el archivo de figura:
 %1</translation>
     </message>
   </context>
@@ -5770,143 +5770,143 @@ File was too small.</translation>
     <name>infinity_dialog</name>
     <message>
       <source>Infinity Manager</source>
-      <translation type="unfinished">Infinity Manager</translation>
+      <translation>Gestor de Infinity</translation>
     </message>
     <message>
       <source>Active Infinity Figures:</source>
-      <translation type="unfinished">Active Infinity Figures:</translation>
+      <translation>Figuras de Infinity activas:</translation>
     </message>
     <message>
       <source>Play Set/Power Disc</source>
-      <translation type="unfinished">Play Set/Power Disc</translation>
+      <translation>Set de juego/Disco de poder</translation>
     </message>
     <message>
       <source>Power Disc Two</source>
-      <translation type="unfinished">Power Disc Two</translation>
+      <translation>Disco de poder 2</translation>
     </message>
     <message>
       <source>Power Disc Three</source>
-      <translation type="unfinished">Power Disc Three</translation>
+      <translation>Disco de poder 3</translation>
     </message>
     <message>
       <source>Player One</source>
-      <translation type="unfinished">Player One</translation>
+      <translation>Jugador 1</translation>
     </message>
     <message>
       <source>Player One Ability One</source>
-      <translation type="unfinished">Player One Ability One</translation>
+      <translation>Habilidad 1 del jugador 1</translation>
     </message>
     <message>
       <source>Player One Ability Two</source>
-      <translation type="unfinished">Player One Ability Two</translation>
+      <translation>Habilidad 2 del jugador 1</translation>
     </message>
     <message>
       <source>Player Two</source>
-      <translation type="unfinished">Player Two</translation>
+      <translation>Jugador 2</translation>
     </message>
     <message>
       <source>Player Two Ability One</source>
-      <translation type="unfinished">Player Two Ability One</translation>
+      <translation>Habilidad 1 del jugador 2</translation>
     </message>
     <message>
       <source>Player Two Ability Two</source>
-      <translation type="unfinished">Player Two Ability Two</translation>
+      <translation>Habilidad 2 del jugador 2</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Nada</translation>
     </message>
     <message>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Borrar</translation>
     </message>
     <message>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>Crear</translation>
     </message>
     <message>
       <source>Load</source>
-      <translation type="unfinished">Load</translation>
+      <translation>Cargar</translation>
     </message>
     <message>
       <source>Unknown Figure</source>
-      <translation type="unfinished">Unknown Figure</translation>
+      <translation>Figura desconocida</translation>
     </message>
     <message>
       <source>Select Infinity File</source>
-      <translation type="unfinished">Select Infinity File</translation>
+      <translation>Seleccionar archivo de Infinity</translation>
     </message>
     <message>
       <source>Infinity Figure (*.bin);;</source>
-      <translation type="unfinished">Infinity Figure (*.bin);;</translation>
+      <translation>Figura de Infinity (*.bin);;</translation>
     </message>
     <message>
       <source>Failed to open the figure file!</source>
-      <translation type="unfinished">Failed to open the figure file!</translation>
+      <translation>¡Error al abrir el archivo de figura!</translation>
     </message>
     <message>
       <source>Failed to open the figure file(%1)!
 File may already be in use on the base.</source>
-      <translation type="unfinished">Failed to open the figure file(%1)!
-File may already be in use on the base.</translation>
+      <translation>¡Error al abrir el archivo de figura (%1)!
+El archivo ya podría estar usándose en la base.</translation>
     </message>
     <message>
       <source>Failed to read the figure file!</source>
-      <translation type="unfinished">Failed to read the figure file!</translation>
+      <translation>¡Error al leer el archivo de figura!</translation>
     </message>
     <message>
       <source>Failed to read the figure file(%1)!
 File was too small.</source>
-      <translation type="unfinished">Failed to read the figure file(%1)!
-File was too small.</translation>
+      <translation>¡Error al leer el archivo de figura (%1)!
+El archivo es demasiado pequeño.</translation>
     </message>
   </context>
   <context>
     <name>minifig_creator_dialog</name>
     <message>
       <source>Figure Creator</source>
-      <translation type="unfinished">Figure Creator</translation>
+      <translation>Creador de figuras</translation>
     </message>
     <message>
       <source>--Unknown--</source>
-      <translation type="unfinished">--Unknown--</translation>
+      <translation>--Desconocida--</translation>
     </message>
     <message>
       <source>Figure Number:</source>
-      <translation type="unfinished">Figure Number:</translation>
+      <translation>Número de figura:</translation>
     </message>
     <message>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>Crear</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Cancelar</translation>
     </message>
     <message>
       <source>Error converting value</source>
-      <translation type="unfinished">Error converting value</translation>
+      <translation>Error al convertir valor</translation>
     </message>
     <message>
       <source>Figure number entered is invalid!</source>
-      <translation type="unfinished">Figure number entered is invalid!</translation>
+      <translation>¡El número de figura no es válido!</translation>
     </message>
     <message>
       <source>Create Figure File</source>
-      <translation type="unfinished">Create Figure File</translation>
+      <translation>Crear archivo de figura</translation>
     </message>
     <message>
       <source>Dimensions Figure (*.bin);;</source>
-      <translation type="unfinished">Dimensions Figure (*.bin);;</translation>
+      <translation>Figura de Dimensions (*.bin);;</translation>
     </message>
     <message>
       <source>Failed to create minifig file!</source>
-      <translation type="unfinished">Failed to create minifig file!</translation>
+      <translation>¡Error al crear el archivo minifig!</translation>
     </message>
     <message>
       <source>Failed to create minifig file:
 %1</source>
-      <translation type="unfinished">Failed to create minifig file:
+      <translation>Error al crear el archivo minifig:
 %1</translation>
     </message>
   </context>
@@ -5914,75 +5914,75 @@ File was too small.</translation>
     <name>minifig_move_dialog</name>
     <message>
       <source>Figure Mover</source>
-      <translation type="unfinished">Figure Mover</translation>
+      <translation>Trasladador de figuras</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Nada</translation>
     </message>
     <message>
       <source>Move Here</source>
-      <translation type="unfinished">Move Here</translation>
+      <translation>Mover aquí</translation>
     </message>
     <message>
       <source>Pick up and Place</source>
-      <translation type="unfinished">Pick up and Place</translation>
+      <translation>Recoger y colocar</translation>
     </message>
   </context>
   <context>
     <name>skylander_creator_dialog</name>
     <message>
       <source>Skylander Creator</source>
-      <translation type="unfinished">Skylander Creator</translation>
+      <translation>Creador de Skylander</translation>
     </message>
     <message>
       <source>--Unknown--</source>
-      <translation type="unfinished">--Unknown--</translation>
+      <translation>--Desconocido--</translation>
     </message>
     <message>
       <source>ID:</source>
-      <translation type="unfinished">ID:</translation>
+      <translation>ID:</translation>
     </message>
     <message>
       <source>Variant:</source>
-      <translation type="unfinished">Variant:</translation>
+      <translation>Variante:</translation>
     </message>
     <message>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>Crear</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Cancelar</translation>
     </message>
     <message>
       <source>Error converting value</source>
-      <translation type="unfinished">Error converting value</translation>
+      <translation>Error al convertir valor</translation>
     </message>
     <message>
       <source>ID entered is invalid!</source>
-      <translation type="unfinished">ID entered is invalid!</translation>
+      <translation>¡El ID no es válido!</translation>
     </message>
     <message>
       <source>Variant entered is invalid!</source>
-      <translation type="unfinished">Variant entered is invalid!</translation>
+      <translation>¡La variante no es válida!</translation>
     </message>
     <message>
       <source>Create Skylander File</source>
-      <translation type="unfinished">Create Skylander File</translation>
+      <translation>Crear archivo de Skylander</translation>
     </message>
     <message>
       <source>Skylander Object (*.sky);;All Files (*)</source>
-      <translation type="unfinished">Skylander Object (*.sky);;All Files (*)</translation>
+      <translation>Objeto Skylander (*.sky);;Todos los archivos (*)</translation>
     </message>
     <message>
       <source>Failed to create skylander file!</source>
-      <translation type="unfinished">Failed to create skylander file!</translation>
+      <translation>¡Error al crear el archivo de Skylander!</translation>
     </message>
     <message>
       <source>Failed to create skylander file:
 %1</source>
-      <translation type="unfinished">Failed to create skylander file:
+      <translation>Error al crear el archivo de Skylander:
 %1</translation>
     </message>
   </context>
@@ -5990,63 +5990,63 @@ File was too small.</translation>
     <name>skylander_dialog</name>
     <message>
       <source>Skylanders Manager</source>
-      <translation type="unfinished">Skylanders Manager</translation>
+      <translation>Gestor de Skylanders</translation>
     </message>
     <message>
       <source>Active Portal Skylanders:</source>
-      <translation type="unfinished">Active Portal Skylanders:</translation>
+      <translation>Skylanders activos en el portal:</translation>
     </message>
     <message>
       <source>Skylander %1</source>
-      <translation type="unfinished">Skylander %1</translation>
+      <translation>Skylander %1</translation>
     </message>
     <message>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Borrar</translation>
     </message>
     <message>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>Crear</translation>
     </message>
     <message>
       <source>Load</source>
-      <translation type="unfinished">Load</translation>
+      <translation>Cargar</translation>
     </message>
     <message>
       <source>Select Skylander File</source>
-      <translation type="unfinished">Select Skylander File</translation>
+      <translation>Seleccionar archivo de Skylander</translation>
     </message>
     <message>
       <source>Skylander (*.sky *.bin *.dmp *.dump);;All Files (*)</source>
-      <translation type="unfinished">Skylander (*.sky *.bin *.dmp *.dump);;All Files (*)</translation>
+      <translation>Skylander (*.sky *.bin *.dmp *.dump);;Todos los archivos (*)</translation>
     </message>
     <message>
       <source>Failed to open the skylander file!</source>
-      <translation type="unfinished">Failed to open the skylander file!</translation>
+      <translation>¡Error al abrir el archivo de Skylander!</translation>
     </message>
     <message>
       <source>Failed to open the skylander file(%1)!
 File may already be in use on the portal.</source>
-      <translation type="unfinished">Failed to open the skylander file(%1)!
-File may already be in use on the portal.</translation>
+      <translation>¡Error al abrir el archivo de Skylander (%1)!
+El archivo ya podría estar usándose en el portal.</translation>
     </message>
     <message>
       <source>Failed to read the skylander file!</source>
-      <translation type="unfinished">Failed to read the skylander file!</translation>
+      <translation>¡Error al leer el archivo de Skylander!</translation>
     </message>
     <message>
       <source>Failed to read the skylander file(%1)!
 File was too small.</source>
-      <translation type="unfinished">Failed to read the skylander file(%1)!
-File was too small.</translation>
+      <translation>¡Error al leer el archivo de Skylander (%1)!
+El archivo es demasiado pequeño.</translation>
     </message>
     <message>
       <source>Unknown (Id:%1 Var:%2)</source>
-      <translation type="unfinished">Unknown (Id:%1 Var:%2)</translation>
+      <translation>Desconocido (ID:%1 Var:%2)</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Nada</translation>
     </message>
   </context>
 </TS>
